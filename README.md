@@ -1,3 +1,19 @@
+# Dusto: Complete Car Service Platform
+
+Dusto is a versatile, all-in-one automotive service application built with Flutter. It connects vehicle owners with certified service centers, providing a seamless digital experience for maintenance, repairs, and roadside assistance.
+
+---
+
+### 🚀 Key Features
+
+* Service Booking: Schedule periodic maintenance, oil changes, or mechanical repairs at verified workshops.
+* Real-Time Tracking: Monitor your vehicle's service status from "Check-in" to "Ready for Delivery."
+* Roadside Assistance: One-tap SOS for towing, battery jumpstarts, or flat tire support based on live GPS location.
+* Digital Service Records: Store and access your car's entire service history and digital invoices in one place.
+* Transparency & Quotes: Receive detailed cost estimates and approve additional repairs directly through the app.
+* Spare Parts Marketplace: Browse and order genuine automotive parts and accessories with doorstep delivery.
+
+
 this is read me file !
 
 issue list:
