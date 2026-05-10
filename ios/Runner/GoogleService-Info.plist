@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCMe_dvHJrNjj_0SZ21kl74ocP8JL7lGwM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>787285180570</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.r3infosolutions.dusto</string>
+	<key>PROJECT_ID</key>
+	<string>dusto-3d660</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dusto-3d660.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:787285180570:ios:f4dff54e2de4bb796b5f23</string>
+</dict>
+</plist>
